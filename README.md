@@ -1,4 +1,5 @@
-# Super-Trunfo-em-C-NIVEL-AVENTUREIRO
+# Super-Trunfo-em-C-NIVEL-MESTRE
 Tema 2 - Super Trunfo em c: Fundamentos e Técnicas Avançadas
 
-Calculando Densidade Populacional e PIB per Capita e mostrando ao usuário
+Implementação do super poder da carta
+comparação de todos os atributos usando os operadores relacionais.
