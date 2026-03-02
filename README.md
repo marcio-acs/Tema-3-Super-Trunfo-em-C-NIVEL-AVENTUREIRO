@@ -2,10 +2,10 @@
 Tema 3 - Super Trunfo em c: Desenvolvendo a Lógica do Jogo
 
 o que este jogo faz?
-Receber os dados de duas cartas
-Calcular Densidade Populacional e PIB per capita e exibir nos dados da carta
-Comparar um atributo escolhido(hard coded, ou seja está escolhido dentro do código)
-Uso de comparação com estrutura de condição if-else
-implementado a comparação de um atributo
-Exibir o atributo de ambas as cartas e seus valores
-Exibir quem venceu 
+os dados das cartas estão no código nas variaveis
+Calcular Densidade Populacional e PIB per capita em variaveis
+implementado o menu interativo para escolher o atributo para comparação
+Uso de comparação com estrutura de encadeada if em cada comparação de atributo
+exibe o nome do pais
+exibe o atributo escolhido e os valores do atributo de cada carta
+Exibir quem venceu ou empate
